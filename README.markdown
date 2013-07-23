@@ -57,7 +57,7 @@ and its dependencies, and
 [download example-makedocument.py](https://raw.github.com/mikemaccana/python-docx/master/example-makedocument.py)
 and
 [example-extracttext.py](https://raw.github.com/mikemaccana/python-docx/master/example-extracttext.py)
-to test them out.
+to test them out. Note that lxml requires libxml2-dev and libxslt1-dev to be installed as well.
 
 ## Extracting Text from a Document
 
