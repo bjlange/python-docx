@@ -52,6 +52,13 @@ Thanks to the awesomeness of the lxml module, we can:
 
 Congratulations, you just made and then modified a Word document!
 
+Alternatively, you can run `pip install docx` to install the package
+and its dependencies, and
+[download example-makedocument.py](https://raw.github.com/mikemaccana/python-docx/master/example-makedocument.py)
+and
+[example-extracttext.py](https://raw.github.com/mikemaccana/python-docx/master/example-extracttext.py)
+to test them out.
+
 ## Extracting Text from a Document
 
 If you just want to extract the text from a Word file, run: 
